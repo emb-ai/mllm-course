@@ -19,7 +19,7 @@
 | :--- | :---: | :--- | :---: |
 | 1 | Feb 10-11 | Word Embeddings and Classification & Language Modelling | [slides](01-w2v-cls-langmodeling/word2vec-lm.pdf) |
 |   | | Embeddings & CNN/LSTM LMs with PyTorch | [notebook](01-w2v-cls-langmodeling/MLLM_seminar_1.ipynb) |
-| 2 | Feb 17-18 | Seq2seq, Attention, and Transformers (MoE, attention types) |[slides](02-seq2seq/seq2seq.pdf) |
+| 2 | Feb 17-18 | Seq2seq, Attention, and Transformers |[slides](02-seq2seq/seq2seq.pdf) |
 |   | | | |
 | 3 | Feb 24-25 | Pretraining, SFT, RLHF & PEFT, LoRA | |
 |   | | | |
