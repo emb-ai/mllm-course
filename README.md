@@ -15,29 +15,135 @@
 
 ### Class Materials
 
-| # | Date | Title | Materials |
-| :--- | :---: | :--- | :---: |
-| 1 | Feb 10-11 | Word Embeddings and Classification & Language Modelling | [slides](01-w2v-cls-langmodeling/slides.pdf) |
-|   | | Embeddings & CNN/LSTM LMs with PyTorch | [notebook](01-w2v-cls-langmodeling/notebook.ipynb) |
-| 2 | Feb 17-18 | Seq2seq, Attention, and Transformers |[slides](02-seq2seq/slides.pdf) |
-|   | | Transformer from Scratch | [notebook](02-seq2seq/notebook.ipynb) |
-| 3 | Feb 24-25 | Pretraining, SFT, RLHF & PEFT, LoRA | |
-|   | | | |
-| 4 | Mar 3-4 | Reasoning, RLVF & RAG | |
-|   | | | |
-| 5 | Mar 10-11 | Efficient Inference: FlashAttention, KV cache, Distillation, Quantization | |
-|   | | | |
-| 6 | Mar 17-18 | Introduction and Image Modality | |
-|   | | | |
-| 7 | Mar 24-25 | Video Understanding | |
-|   | | | |
-| 8 | Mar 31-Apr 1 | VLLM and Data Generation | |
-|   | | | |
-| 9 | Apr 7-8 | Action Modality (Robotics) | |
-|   | | | |
-| 10 | Apr 14-15 | Multimodal Agents | |
-|    | | | |
-| 11 | Apr 21-22 | 3D Data Modality | |
-|    | | | |
-| 12 | Apr 28-29 | Guest Lecture | |
-|    | | | |
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Date</th>
+<th>Title</th>
+<th>Materials</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">1</td>
+<td rowspan="2">Feb 10-11</td>
+<td>Word Embeddings and Classification & Language Modelling</td>
+<td><a href="01-w2v-cls-langmodeling/slides.pdf">slides</a></td>
+</tr>
+<tr>
+<td>Embeddings & CNN/LSTM LMs with PyTorch</td>
+<td><a href="01-w2v-cls-langmodeling/notebook.ipynb">notebook</a></td>
+</tr>
+<tr>
+<td rowspan="2">2</td>
+<td rowspan="2">Feb 17-18</td>
+<td>Seq2seq, Attention, and Transformers</td>
+<td><a href="02-seq2seq/slides.pdf">slides</a></td>
+</tr>
+<tr>
+<td>Transformer from Scratch</td>
+<td><a href="02-seq2seq/notebook.ipynb">notebook</a></td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
+<td rowspan="2">Feb 24-25</td>
+<td>Pretraining, SFT, RLHF & PEFT, LoRA</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">4</td>
+<td rowspan="2">Mar 3-4</td>
+<td>Reasoning, RLVF & RAG</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">5</td>
+<td rowspan="2">Mar 10-11</td>
+<td>Efficient Inference: FlashAttention, KV cache, Distillation, Quantization</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">6</td>
+<td rowspan="2">Mar 17-18</td>
+<td>Introduction and Image Modality</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
+<td rowspan="2">Mar 24-25</td>
+<td>Video Understanding</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">8</td>
+<td rowspan="2">Mar 31-Apr 1</td>
+<td>VLLM and Data Generation</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">9</td>
+<td rowspan="2">Apr 7-8</td>
+<td>Action Modality (Robotics)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">10</td>
+<td rowspan="2">Apr 14-15</td>
+<td>Multimodal Agents</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">11</td>
+<td rowspan="2">Apr 21-22</td>
+<td>3D Data Modality</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">12</td>
+<td rowspan="2">Apr 28-29</td>
+<td>Guest Lecture</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
