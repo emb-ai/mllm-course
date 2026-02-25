@@ -49,7 +49,7 @@
 <td rowspan="2">3</td>
 <td rowspan="2">Feb 25</td>
 <td>Pretraining, SFT, RLHF & PEFT, LoRA</td>
-<td></td>
+<td><a href="03-llm/llm.pdf">slides</a></td>
 </tr>
 <tr>
 <td></td>
