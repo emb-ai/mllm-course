@@ -1,6 +1,6 @@
 # Multimodal Large Language Models (MLLM)
 
-[**Rules & FAQ**](https://docs.google.com/document/d/1D1H3xQKq-eU5hyOS3217a1LLHMS0E80jXasg78Y9-C4/edit?usp=sharing)
+[**Rules & FAQ**](FAQ.md)
 
 ### Class recordings (in Russian)
 
