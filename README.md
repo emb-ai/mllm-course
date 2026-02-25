@@ -27,7 +27,7 @@
 <tbody>
 <tr>
 <td rowspan="2">1</td>
-<td rowspan="2">Feb 10-11</td>
+<td rowspan="2">Feb 11</td>
 <td>Word Embeddings and Classification & Language Modelling</td>
 <td><a href="01-w2v-cls-langmodeling/slides.pdf">slides</a></td>
 </tr>
@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td rowspan="2">2</td>
-<td rowspan="2">Feb 17-18</td>
+<td rowspan="2">Feb 18</td>
 <td>Seq2seq, Attention, and Transformers</td>
 <td><a href="02-seq2seq/slides.pdf">slides</a></td>
 </tr>
@@ -47,7 +47,7 @@
 </tr>
 <tr>
 <td rowspan="2">3</td>
-<td rowspan="2">Feb 24-25</td>
+<td rowspan="2">Feb 25</td>
 <td>Pretraining, SFT, RLHF & PEFT, LoRA</td>
 <td></td>
 </tr>
@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td rowspan="2">4</td>
-<td rowspan="2">Mar 3-4</td>
+<td rowspan="2">Mar 4</td>
 <td>Reasoning, RLVF & RAG</td>
 <td></td>
 </tr>
@@ -67,7 +67,7 @@
 </tr>
 <tr>
 <td rowspan="2">5</td>
-<td rowspan="2">Mar 10-11</td>
+<td rowspan="2">Mar 11</td>
 <td>Efficient Inference: FlashAttention, KV cache, Distillation, Quantization</td>
 <td></td>
 </tr>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <td rowspan="2">6</td>
-<td rowspan="2">Mar 17-18</td>
+<td rowspan="2">Mar 18</td>
 <td>Introduction and Image Modality</td>
 <td></td>
 </tr>
@@ -87,7 +87,7 @@
 </tr>
 <tr>
 <td rowspan="2">7</td>
-<td rowspan="2">Mar 24-25</td>
+<td rowspan="2">Mar 25</td>
 <td>Video Understanding</td>
 <td></td>
 </tr>
@@ -97,7 +97,7 @@
 </tr>
 <tr>
 <td rowspan="2">8</td>
-<td rowspan="2">Mar 31-Apr 1</td>
+<td rowspan="2">Apr 1</td>
 <td>VLLM and Data Generation</td>
 <td></td>
 </tr>
@@ -107,7 +107,7 @@
 </tr>
 <tr>
 <td rowspan="2">9</td>
-<td rowspan="2">Apr 7-8</td>
+<td rowspan="2">Apr 8</td>
 <td>Action Modality (Robotics)</td>
 <td></td>
 </tr>
@@ -117,7 +117,7 @@
 </tr>
 <tr>
 <td rowspan="2">10</td>
-<td rowspan="2">Apr 14-15</td>
+<td rowspan="2">Apr 15</td>
 <td>Multimodal Agents</td>
 <td></td>
 </tr>
@@ -127,7 +127,7 @@
 </tr>
 <tr>
 <td rowspan="2">11</td>
-<td rowspan="2">Apr 21-22</td>
+<td rowspan="2">Apr 22</td>
 <td>3D Data Modality</td>
 <td></td>
 </tr>
@@ -137,7 +137,7 @@
 </tr>
 <tr>
 <td rowspan="2">12</td>
-<td rowspan="2">Apr 28-29</td>
+<td rowspan="2">Apr 29</td>
 <td>Guest Lecture</td>
 <td></td>
 </tr>
