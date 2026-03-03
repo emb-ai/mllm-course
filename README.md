@@ -52,8 +52,8 @@
 <td><a href="03-llm/llm.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Parameter-efficient fine-tuning</td>
+<td><a href="03-llm/sem3_peft.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">4</td>
