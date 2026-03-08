@@ -59,11 +59,11 @@
 <td rowspan="2">4</td>
 <td rowspan="2">Mar 4</td>
 <td>Reasoning, RLVF & RAG</td>
-<td></td>
+<td><a href="04-reason-rag/04-reason-rag.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Tokenization</td>
+<td><a href="04-reason-rag/sem4-tokenization.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">5</td>
