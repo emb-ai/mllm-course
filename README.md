@@ -78,8 +78,8 @@
 <tr>
 <td rowspan="2">6</td>
 <td rowspan="2">Mar 18</td>
-<td>Introduction and Image Modality</td>
-<td></td>
+<td>Introduction to MLLMs and Image Modality</td>
+<td><a href="06-images/image.pdf">slides</a></td>
 </tr>
 <tr>
 <td></td>
