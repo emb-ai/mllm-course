@@ -49,21 +49,21 @@
 <td rowspan="2">3</td>
 <td rowspan="2">Feb 25</td>
 <td>Pretraining, SFT, RLHF & PEFT, LoRA</td>
-<td><a href="03-llm/llm.pdf">slides</a></td>
+<td><a href="03-llm/slides.pdf">slides</a></td>
 </tr>
 <tr>
 <td>Parameter-efficient fine-tuning</td>
-<td><a href="03-llm/sem3_peft.ipynb">notebook</a></td>
+<td><a href="03-llm/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">4</td>
 <td rowspan="2">Mar 4</td>
 <td>Reasoning, RLVF & RAG</td>
-<td><a href="04-reason-rag/04-reason-rag.pdf">slides</a></td>
+<td><a href="04-reason-rag/slides.pdf">slides</a></td>
 </tr>
 <tr>
 <td>Tokenization</td>
-<td><a href="04-reason-rag/sem4-tokenization.ipynb">notebook</a></td>
+<td><a href="04-reason-rag/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">5</td>
@@ -79,11 +79,11 @@
 <td rowspan="2">6</td>
 <td rowspan="2">Mar 18</td>
 <td>Introduction to MLLMs and Image Modality</td>
-<td><a href="06-images/image.pdf">slides</a></td>
+<td><a href="06-images/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Classification of VLMs: Deep Fusion vs Early Fusion</td>
+<td><a href="06-images/notebook.ipynb">slides</a></td>
 </tr>
 <tr>
 <td rowspan="2">7</td>
