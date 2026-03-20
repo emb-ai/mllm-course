@@ -83,7 +83,7 @@
 </tr>
 <tr>
 <td>Classification of VLMs: Deep Fusion vs Early Fusion</td>
-<td><a href="06-images/notebook.ipynb">slides</a></td>
+<td><a href="06-images/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">7</td>
