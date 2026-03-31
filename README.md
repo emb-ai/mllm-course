@@ -88,17 +88,17 @@
 <tr>
 <td rowspan="2">7</td>
 <td rowspan="2">Mar 25</td>
-<td>Video Understanding</td>
-<td></td>
+<td>VLLM and Data Generation</td>
+<td><a href="07-generation/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Visual Autoregressive Transformer</td>
+<td><a href="07-generation/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">8</td>
 <td rowspan="2">Apr 1</td>
-<td>VLLM and Data Generation</td>
+<td>Video Understanding</td>
 <td></td>
 </tr>
 <tr>
