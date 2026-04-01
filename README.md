@@ -99,7 +99,7 @@
 <td rowspan="2">8</td>
 <td rowspan="2">Apr 1</td>
 <td>Video Understanding</td>
-<td></td>
+<td><a href="08-video/slides.pdf">slides</a></td>
 </tr>
 <tr>
 <td></td>
