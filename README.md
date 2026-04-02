@@ -102,8 +102,8 @@
 <td><a href="08-video/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Video Modality and Any-to-any Models</td>
+<td><a href="08-video/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">9</td>
