@@ -112,8 +112,8 @@
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Intro to Vision Language Action Models</td>
+<td><a href="09-vla/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">10</td>
