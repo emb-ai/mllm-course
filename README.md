@@ -118,12 +118,12 @@
 <tr>
 <td rowspan="2">10</td>
 <td rowspan="2">Apr 15</td>
-<td>Multimodal Agents</td>
-<td></td>
+<td>Intelligent Document Processing (IDP) и UI Agents</td>
+<td><a href="10-agent/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td> Agentic Workflow </td>
+<td><a href="10-agent/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">11</td>
