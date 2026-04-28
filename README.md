@@ -129,11 +129,11 @@
 <td rowspan="2">12</td>
 <td rowspan="2">Apr 29</td>
 <td>Efficient Inference: FlashAttention, KV cache, Distillation, Quantization</td>
-<td><a href="12-штаукутсу/slides.pdf">slides</a></td>
+<td><a href="12-inference/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>KV cache, Quantization</td>
+<td><a href="12-inference/notebook.ipynb">notebook</a></td>
 </tr>
 </tbody>
 </table>
