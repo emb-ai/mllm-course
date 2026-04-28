@@ -66,16 +66,6 @@
 <td><a href="04-reason-rag/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
-<td rowspan="2">5</td>
-<td rowspan="2">Mar 11</td>
-<td>Efficient Inference: FlashAttention, KV cache, Distillation, Quantization</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td rowspan="2">6</td>
 <td rowspan="2">Mar 18</td>
 <td>Introduction to MLLMs and Image Modality</td>
@@ -138,8 +128,8 @@
 <tr>
 <td rowspan="2">12</td>
 <td rowspan="2">Apr 29</td>
-<td>Guest Lecture</td>
-<td></td>
+<td>Efficient Inference: FlashAttention, KV cache, Distillation, Quantization</td>
+<td><a href="12-штаукутсу/slides.pdf">slides</a></td>
 </tr>
 <tr>
 <td></td>
