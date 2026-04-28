@@ -109,7 +109,7 @@
 <td rowspan="2">9</td>
 <td rowspan="2">Apr 8</td>
 <td>Action Modality (Robotics)</td>
-<td></td>
+<td><a href="09-vla/slides.pdf">slides</td>
 </tr>
 <tr>
 <td>Intro to Vision Language Action Models</td>
@@ -129,7 +129,7 @@
 <td rowspan="2">11</td>
 <td rowspan="2">Apr 22</td>
 <td>3D Data Modality</td>
-<td></td>
+<td><a href="11-3D/slides.pdf">slides</a></td>
 </tr>
 <tr>
 <td></td>
