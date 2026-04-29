@@ -122,8 +122,8 @@
 <td><a href="11-3D/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>VLM Grounding</td>
+<td><a href="11-3D/notebook.ipynb">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">12</td>
